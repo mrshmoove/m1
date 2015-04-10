@@ -1,0 +1,24 @@
+div {
+	border-top: 1px solid black;
+	padding: 5px;
+}
+
+h1 {
+	border-top: 1px solid black;
+	padding-left: 1px;
+	padding-top: 40px;
+}
+
+nav {
+	border-bottom: 1px solid black;
+	padding:10px;
+	background-color: #5b5858;
+	background-position: center;
+	color: white;
+}
+
+footer {
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	padding: 20px;
+}
